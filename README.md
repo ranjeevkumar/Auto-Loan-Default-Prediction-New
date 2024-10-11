@@ -33,8 +33,6 @@ Evaluation metrics: Evaluated models using precision, recall, F1-score, and ROC-
 
 The Gradient Boosting model achieved the highest performance, with an AUC score that suggests good differentiation between default and non-default cases.
 
-Addressing class imbalance with SMOTE significantly improved model performance for predicting defaults, which is critical from a business perspective.
-
 Feature importance analysis highlighted key factors that contribute to loan default risk, such as income level, loan tenure, and credit history.
 
 #### Next steps
