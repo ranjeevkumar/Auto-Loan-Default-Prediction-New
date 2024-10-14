@@ -22,8 +22,6 @@ Vehicle Loan Default Prediction Dataset from Kaggle:  https://www.kaggle.com/dat
 
 Data preprocessing: Removed missing values, scaled numerical data, and one-hot encoded categorical data.
 
-Class imbalance handling: Used SMOTE to oversample the minority class (loan defaults).
-
 Machine learning models: Trained Logistic Regression, Random Forest, and Gradient Boosting models. Applied Grid Search for hyperparameter tuning.
 
 Evaluation metrics: Evaluated models using precision, recall, F1-score, and ROC-AUC. Visualized feature importance to identify key drivers of loan default.
